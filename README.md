@@ -1,5 +1,5 @@
-# Rock_Paper_Scissors
-Este é um projeto simples para um teste da Zenvia Mobile 
+
+
 
 <div align="center">
     <img src="https://use
@@ -13,7 +13,7 @@ Este é um projeto simples para um teste da Zenvia Mobile
 
 
 <h2 align="center">
-   📚 NextL
+  # Rock_Paper_Scissors
 </h2>
 <div align="center">
  <img src="https:/
@@ -22,7 +22,7 @@ Este é um projeto simples para um teste da Zenvia Mobile
 
 ## 📖 Sobre 
 
-Este é um projeto desenvolvido d
+Este é um projeto simples para um teste da Zenvia Mobile 
 
 
 
