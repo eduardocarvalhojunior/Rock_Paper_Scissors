@@ -29,29 +29,28 @@
 
 ### 🎨 Layout
 
-- O teste pedia uma solução simples então resolvi ser o mais objetivo possível.
+O teste pedia uma solução simples então resolvi ser o mais objetivo possível.
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- Html5
-- Javascript
+Html5
+Javascript
 
 
 ## 😯 Como contribuir para o projeto
 
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
+Faça um **fork** do projeto.
+Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+Envie as suas alterações: `git push origin my-feature`
 
 ---
 
 
 ### Autor
-
 
 
 [Eduardo Carvalho](https://github.com/eduardocarvalhojunior)
