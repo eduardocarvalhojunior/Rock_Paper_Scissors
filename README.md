@@ -13,7 +13,7 @@
 
 
 <h2 align="center">
-  # Rock_Paper_Scissors
+   Rock_Paper_Scissors
 </h2>
 <div align="center">
  <img src="https:/
