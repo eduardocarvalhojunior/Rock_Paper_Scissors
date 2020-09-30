@@ -15,6 +15,8 @@
 
 ## 📖 Sobre 
 
+
+
 -Este é um projeto simples para um teste da Zenvia Mobile 
 
 -Planejando este projeto percebi que precisava usar uma funcção que gerasse valores aleatórios. Usando o Math.random() (método tem a função de retornar constantes ou funções matemáticas) para gerar um número randômico até um valor máximo pré determinado passando um parâmetro minímo e máximo, no caso 0 até 3.
@@ -31,7 +33,11 @@
 </div>
 <br/>
 
+
+
 ### 🎨 Layout
+
+
 
 -O teste pedia uma solução simples então resolvi ser o mais objetivo possível.
 
@@ -47,6 +53,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 😯 Como contribuir para o projeto
 
 
+
+
 -Faça um **fork** do projeto.
 
 -Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
@@ -60,6 +68,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ### Autor
+
 
 
 [Eduardo Carvalho](https://github.com/eduardocarvalhojunior)
