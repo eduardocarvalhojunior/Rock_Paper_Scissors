@@ -5,11 +5,14 @@
 </h2>
 <br/>
 
+
+
 <div align="center">
  <img src="https://user-images.githubusercontent.com/60022350/92428523-bfcb8b00-f165-11ea-838d-99145e065b28.gif"
 </div>
 <br/>  
-           
+  
+  
 ---
 
 
@@ -27,11 +30,14 @@
 
 
 ---
+
+
 <br/>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/60022350/92426850-50539c80-f161-11ea-8e44-ee2a97228dfb.jpg"
 </div>
 <br/>
+
 
 
 
@@ -50,7 +56,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -Javascript
 
 
+
 ## 😯 Como contribuir para o projeto
+
+
 
 
 
@@ -67,7 +76,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 
+
 ### Autor
+
 
 
 
